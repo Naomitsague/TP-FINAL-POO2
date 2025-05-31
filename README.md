@@ -52,4 +52,4 @@ Le système repose sur une modélisation orientée objet claire et modulaire, re
 
 1. **Cloner le dépôt GitHub**  
 ```bash
-git clone https://github.com/ton-nom-utilisateur/TP-FINAL-POO2.git
+git clone https://github.com/Naomitsague/TP-FINAL-POO2.git
